@@ -1,3 +1,3 @@
 # Next Word Prediction Project using RNN
 
-In this jupyter notebook, I have build a Next Word Prediction Model using Recurrent Neural Networks.
+I've explained the theory behind RNNs, their pros and cons, and provide a hands-on guide using a Jupyter notebook to build a next word prediction model.
